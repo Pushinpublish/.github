@@ -1,0 +1,5 @@
+title: My GitHub Page
+description: A simple GitHub page
+theme: jekyll-theme-cayman
+baseurl: "/.github"
+url: "https://pushinpublish.github.io"
